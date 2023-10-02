@@ -1,0 +1,4 @@
+nltk==3.8.1
+flask==2.2.2
+gunicorn==21.2.0
+importlib-metadata==4.12.0
